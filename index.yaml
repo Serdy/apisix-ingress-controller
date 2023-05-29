@@ -21,6 +21,6 @@ entries:
         - https://github.com/Serdy/apisix-ingress-controller
       type: application
       urls:
-        - serdy.github.io/apisix-ingress-controller/apisix-ingress-controller-0.11.7.tgz
+        - apisix-ingress-controller-0.11.7.tgz
       version: 0.11.7
 generated: "2023-05-29T11:29:33.51611+02:00"
